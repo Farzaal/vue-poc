@@ -1,0 +1,36 @@
+{
+  "name": "my-app-typescript",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@chakra-ui/vue": "^0.10.2-next.0",
+    "@emotion/css": "^11.10.6",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mdi/font": "^7.2.96",
+    "@popperjs/core": "^2.11.7",
+    "add": "^2.0.6",
+    "ant-design-vue": "^3.2.19",
+    "bootstrap": "^5.2.3",
+    "core-js": "^3.8.3",
+    "emotion": "^10.0.27",
+    "framer-motion": "^10.12.4",
+    "vue": "^3.2.13",
+    "vue-demi": "^0.11.0-beta.1",
+    "vue-router": "^4.1.6",
+    "vuetify": "^3.1.4",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "chakra-loader": "^1.0.2",
+    "typescript": "~4.5.5",
+    "vue-cli-plugin-chakra-ui": "~1.0.3"
+  }
+}
